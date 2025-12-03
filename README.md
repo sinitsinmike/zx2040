@@ -47,6 +47,7 @@ You need either:
 
 * A Pimoroni Tufty 2040.
 * Or, any other suitable Pico + display + 5 buttons combination.
+* Here you can find a [porting for the PicoCalc](https://github.com/ohm69/zx-picocalc).
 
 and...
 
